@@ -1,7 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 32e31880f4a349747957a2f158f863af
 TextureImporter:
   internalIDToNameTable: []
+=======
+guid: 3bad18b9b30e1e14ea4bb52228d814d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4404167369504488931
+    second: 618_expeditionWin_0
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +52,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
   spriteMode: 1
+=======
+  spriteMode: 2
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +80,11 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
+<<<<<<< HEAD
   - serializedVersion: 3
+=======
+  - serializedVersion: 4
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +97,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 3
+=======
+  - serializedVersion: 4
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -93,7 +114,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 3
+=======
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,8 +144,13 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 3
     buildTarget: Android
+=======
+  - serializedVersion: 4
+    buildTarget: iOS
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -121,17 +164,53 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites: []
     outline: []
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
+=======
+    sprites:
+    - serializedVersion: 2
+      name: 618_expeditionWin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 670
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1281599c1141e2c0800000000000000
+      internalID: -4404167369504488931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
+=======
+    spriteCustomMetadata:
+      entries: []
+>>>>>>> 26ae594b8f73a764d36feb43c073ad37dc21cf32
     nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

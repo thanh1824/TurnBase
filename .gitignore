@@ -13,3 +13,9 @@
 *.csproj
 *.sln
 *.unitypackage
+
+# File Unity Asset Store cache
+[Aa]sset[Ss]tore/
+
+# Giữ lại các file .meta
+!*.meta
